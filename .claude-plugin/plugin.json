@@ -1,0 +1,9 @@
+{
+  "name": "agent-monitor",
+  "version": "0.1.0",
+  "description": "A boxed band above the prompt listing the main agent and each active subagent with its model and context usage.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "jmseguin"
+  }
+}

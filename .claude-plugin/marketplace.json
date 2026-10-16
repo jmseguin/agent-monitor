@@ -1,0 +1,5 @@
+{
+  "name": "jmseguin-mods",
+  "owner": { "name": "jmseguin" },
+  "plugins": [{ "name": "agent-monitor", "source": "./" }]
+}
